@@ -1,0 +1,15 @@
+{
+  "name": "social-media-server",
+  "version": "1.0.0",
+  "description": "This is Social Media App Server which connects with website as well as App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kavya Rajput",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+}
